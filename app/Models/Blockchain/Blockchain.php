@@ -1,5 +1,5 @@
 <?php
-namespace Blockchain;
+namespace Models\Blockchain;
 
 class Blockchain {
 
