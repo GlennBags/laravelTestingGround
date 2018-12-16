@@ -1,6 +1,10 @@
 <?php
 namespace Models\Blockchain;
 
+/**
+ * Class Block
+ * @package Models\Blockchain
+ */
 class Block {
 
     protected $index;
